@@ -27,10 +27,10 @@ Bidirectional MQTT communication example.
 
 For this example we are using a public Datacake MQTT Broker. The connection details are as follows:
 
-- Host: public-mqtt-93bb.managed-mqtt.com
-- Port: 1883 or 8883 (for TLS with CA-Signed Certificate)
-- Username: datacake
-- Password: datacake
+- Host: 'public-mqtt-93bb.managed-mqtt.com'
+- Port: '1883' or '8883' (for TLS with CA-Signed Certificate)
+- Username: 'datacake'
+- Password: 'datacake'
 
 ### Run locally
 
